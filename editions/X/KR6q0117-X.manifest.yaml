@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6q0117/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0117/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 頓悟入道要門論
+  identifiers:
+    krp: KR6q0117
+    cbeta: X63n1223
+    cbeta_old_id: X63n1223
+    authorityid: CA0000808
+    json_key: X1223
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1223.xml
+    old_id: X63n1223
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0117_000-X.yaml, hash: 'sha256:569003570f3fb35bcd929492eeb67bad17be2015fd770e09372a580411410637'}
+  - {seq: 1, filename: KR6q0117_001-X.yaml, hash: 'sha256:c364eeb25fc9c5ff41ec3ccb543df01b617701c1ca4eb23106b993a9ec28f48a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0117_000-X.markers.yaml, hash: 'sha256:b14019de4fb56f204b4fc7b48439c1ebcb307d34fdf5794fe596aa8bd3c4d8a0'}
+  - {seq: 1, role: markers, filename: assets/KR6q0117_001-X.markers.yaml, hash: 'sha256:151acbc789f576c58982123c86bccbd47b46563c7fb015ad45a99ee52001c233'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0117_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1223-A 頓悟入道要門論原序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0117_X_000-mulu-2
+    span:
+    - front
+    - 257
+    - 257
+  label: 頓悟入道要門論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0117_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 8378
+  label: 頓悟入道要門論卷上合下參問語錄
+  type: juan
+  level: 1
+hash: sha256:b9fd131fd7bf852c5a91c586901e8c75da67381551828f6dad88ca3e36460326
