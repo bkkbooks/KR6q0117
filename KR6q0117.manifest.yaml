@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0117_000.yaml, hash: 'sha256:68e66ef892ae0fdfd7e50ae3e1f860b68ccdfd3dc060e6da067d27a7c8722ada'}
-  - {seq: 1, filename: KR6q0117_001.yaml, hash: 'sha256:eb6d2a0614c7af502912b3618b3d775d0ee17deb39d3e42cfe03c90b2c37ea8c'}
+  - {seq: 0, filename: KR6q0117_000.yaml, hash: 'sha256:569003570f3fb35bcd929492eeb67bad17be2015fd770e09372a580411410637'}
+  - {seq: 1, filename: KR6q0117_001.yaml, hash: 'sha256:c364eeb25fc9c5ff41ec3ccb543df01b617701c1ca4eb23106b993a9ec28f48a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0117_000.markers.yaml, hash: 'sha256:c392026c1cf02b4b3fca4f1da934914a613c11aeb77fc5cb70606e393082a558'}
-  - {seq: 1, role: markers, filename: assets/KR6q0117_001.markers.yaml, hash: 'sha256:c89dc665a052880bbccbb43eecd04d36dcb89602fd801a27c8b954619fb735ff'}
+  - {seq: 0, role: markers, filename: assets/KR6q0117_000.markers.yaml, hash: 'sha256:b48a20199a3a06aa7091404422a2d798e89690f97b0665e5974972c0da5743e5'}
+  - {seq: 1, role: markers, filename: assets/KR6q0117_001.markers.yaml, hash: 'sha256:a0be868bda74946f44617572f8ccd0af6c16c48d8153a170a0976bae31973b46'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 頓悟入道要門論卷上合下參問語錄
   type: juan
   level: 1
-hash: sha256:f4309e8f2dce4bb3ef5a66355beb130e067d8eb81cd08783e41912bbea44b6b9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e7457bd063857d1458bf568880a3e6ed20559dad9aac648772307ca1dbe4dd1f
