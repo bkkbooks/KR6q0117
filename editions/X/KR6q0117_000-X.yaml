@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0117/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 頓悟入道要門論原序夫善知識者如巨海舟航能度迷類長夜明炬善破羣昏大珠和尚首參馬祖使入慧海之灋界令開寶藏於自家所以靈辯滔滔譬大川之流水峻機疊疊如圓器之傾珠於是曲設多方垂慈利物發揚至道烏可以筆舌讚歎哉妙叶維那四明翠山大中理公之神足夙具靈根素培智種禪餘之暇閱此老語錄有所證入平生礙膺之物脫然而去從上佛祖舌頭一無所疑矣此亦古塔主覩雲門語而嗣之正所謂也故捐資鏤板以廣其傳期以後之來者同一了悟存此心者豈淺淺耶此之功勳不墜行願彌堅蓋可見矣所幾法流不泯派永接於曹溪燈焰長存光愈明於少室也旹歲在癸丑春孟十日阿育王山沙門釋崇裕書於無異堂
   hash: sha256:7ca54ba0e7d268ad58ad36f37da3157125c2f211b72a3ca27f4ee0cfba0d8e7e
   markers:
   - {type: 序, offset: 0, content: No. 1223-A 頓悟入道要門論原序, id: KR6q0117_X_000-mulu-1, level: '1'}
   - {type: 其他, offset: 257, content: 頓悟入道要門論, id: KR6q0117_X_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 頓悟入道要門論
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X63/X63n1223.xml
     old_id: X63n1223
-hash: sha256:569003570f3fb35bcd929492eeb67bad17be2015fd770e09372a580411410637
+hash: sha256:ab8aa2df8e976ea91ba1977eb94f757882b1c109be486d4a7a04708763f054df

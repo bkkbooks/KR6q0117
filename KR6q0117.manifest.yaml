@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0117_000.yaml, hash: 'sha256:68e66ef892ae0fdfd7e50ae3e1f860b68ccdfd3dc060e6da067d27a7c8722ada'}
+  - {seq: 0, filename: KR6q0117_000.yaml, hash: 'sha256:f4f0a8f09d48bb25e40066f2f3f1bd8a38df355684650d45cc0009e80a005ee1'}
   - {seq: 1, filename: KR6q0117_001.yaml, hash: 'sha256:b506ea4e4422150e9d27d73f8b7a2fda73a753d1deed7fd2bc42086147e20223'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0117_000.markers.yaml, hash: 'sha256:aa3e20ebb449b5a374716979e4da03eaa1c3c73041066549595851bf32b508f7'}
+  - {seq: 0, role: markers, filename: assets/KR6q0117_000.markers.yaml, hash: 'sha256:beaf12d33e6d06755449d012caa4000fc796f04d1c0b1c5cd6b11983efc3e51b'}
   - {seq: 1, role: markers, filename: assets/KR6q0117_001.markers.yaml, hash: 'sha256:d1a1913acc41973202acea09ebcad04b5acabe27e5ca5cab8d84ade9501fe75a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0117_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1223-A 頓悟入道要門論原序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0117_X_000-mulu-2
     span:
-    - front
+    - body
     - 257
     - 257
   label: 頓悟入道要門論
@@ -57,7 +57,7 @@ table_of_contents:
   label: 頓悟入道要門論卷上合下參問語錄
   type: juan
   level: 1
-hash: sha256:6fd658adbbd149f9184ed6a82aae4d038df196bc346aaf822bda201b12d88c0c
+hash: sha256:25a09420198d1920b30f09694398fdb783f4052afa25bd9af90a83391bd75308
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
